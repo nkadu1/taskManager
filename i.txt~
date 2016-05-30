@@ -1,0 +1,7 @@
+
+
+<target name="tarzip" > 
+	    <delete file="./vinayak_pingale_assign3.tar" quiet="true" /> 
+	    <tar destfile="${BUILD}/dist/vinayak_pingale__assign3.tar.gz" basedir="../../" compression="gzip"/>
+</target>
+
