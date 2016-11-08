@@ -1,8 +1,6 @@
 # taskManager
 File Based Dashboard for a Task Manager
 
-CS542 Design Patterns
-Spring 2015
 PROJECT 3
 
 Due Date: Saturday, April 04, 2015
